@@ -6,5 +6,5 @@ Arc Dark skin for [VLC](http://www.videolan.org/vlc/)
 ```
 git clone https://github.com/varlesh/VLC-Arc-Dark.git
 cd VLC-Arc-Dark
-sudo cp Arc-Dark.vlt /usr/share/vlc/skins2/
+sudo cp *.vlt /usr/share/vlc/skins2/
 ```
